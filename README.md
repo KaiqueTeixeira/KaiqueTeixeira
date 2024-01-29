@@ -24,10 +24,10 @@
 
 <br>
 
- <div align="center">
-   <a href="https://github.com/KaiqueTeixeira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueTeixeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueTeixeira&layout=compact&langs_count=6&theme=tokyonight"/>
+ <div>
+   <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaiqueTeixeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaiqueTeixeira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 <br>
@@ -36,21 +36,8 @@
   <img src="https://media.giphy.com/media/gFPxNhzEWdFCCRAqf0/giphy.gif" />
 </p>
 
-
-  
-
-
 <h2 align="left">🔥 Skills</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-
-
-
-
-
-
-
-
