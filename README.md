@@ -8,11 +8,19 @@
    - 🔭 Tenho o desejo de ingressar no mercado de trabalho, buscando me adaptar e oferecer o meu melhor em cada oportunidade.
 </p>
 
-<div> 
-  <a href="https://instagram.com/_kt.figura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kteixeira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/*******" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<br> 
+
+<p align="center">
+  <a href="https://instagram.com/_kt.figura" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:kteixeira.dev@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/*******" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 <br>
 
