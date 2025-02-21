@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world! 😁</h2>
 
 <p>
- Oi 👋. Sou o Kaíque! Tenho 18 anos e sou estudante de progamação.
+ Oi 👋. Sou o Kaíque! Tenho 18 anos e sou estudante de engenharia.
  
    - 📚 Busco me tornar programador e estou dedicando-me aos estudos para alcançar esse objetivo. 
    
@@ -17,7 +17,7 @@
   <a href="mailto:kteixeira.dev@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/*******" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/ka%C3%ADque-teixeira-a47269352/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
