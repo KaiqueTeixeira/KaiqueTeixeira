@@ -26,10 +26,10 @@
 
 <p align="center">
   <a href="https://github.com/KaiqueTeixeira/github-readme-stats" style="display: inline-block; margin-right: 10px;">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KaiqueTeixeira&theme=tokyonight" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=KaiqueTeixeira&theme=tokyonight" />
   </a>
   <a href="https://github.com/KaiqueTeixeira/convoychat" style="display: inline-block;">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaiqueTeixeira&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaiqueTeixeira&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
 </p>
 
