@@ -24,11 +24,14 @@
 
 <br>
 
- <div>
-   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaiqueTeixeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaiqueTeixeira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="170" alt="languages graph"  />
-</div>
+<p align="center">
+ <a href="https://github.com/KaiqueTeixeira/github-readme-stats">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KaiqueTeixeira&theme=tokyonight" />
+ </a>
+ <a href="https://github.com/KaiqueTeixeira/convoychat">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaiqueTeixeira&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+ </a>
+</p>
 
 <br>
 
