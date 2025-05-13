@@ -1,11 +1,11 @@
-<h1 align="center">Hello, world! 😁</h2>
+<h1 align="left">Hello, world! 😁</h2>
 
 <p>
- Oi 👋. Sou o Kaíque! Tenho 18 anos e sou estudante de engenharia.
- 
-   - 📚 Busco me tornar programador e estou dedicando-me aos estudos para alcançar esse objetivo. 
-   
-   - 🔭 Tenho o desejo de ingressar no mercado de trabalho, buscando me adaptar e oferecer o meu melhor em cada oportunidade.
+ Oi👋. Meu nome é Kaíque Teixeira! Sou estudante de Engenharia de Produção e entusiasta da programação.
+
+   - 💻 Busco me tornar programador e estou dedicando-me aos estudos para alcançar esse objetivo.
+   - 🤖 Sempre buscando evoluir e aprender novas tecnologias.
+   - 🚀 Tenho o desejo de ingressar no mercado de trabalho, buscando me adaptar e oferecer o meu melhor em cada oportunidade.
 </p>
 
 <br> 
