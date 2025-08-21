@@ -8,7 +8,13 @@
    - 🚀 Tenho o desejo de ingressar no mercado de trabalho, buscando me adaptar e oferecer o meu melhor em cada oportunidade.
 </p>
 
-<br> 
+## 🌐 Meu Portfólio
+
+Quer conhecer meus projetos e trabalhos? Clique no link abaixo para visitar meu portfólio online:
+
+[🚀 Acesse meu Portfólio!](https://kaiqueteixeira.github.io/Meu-Portfolio/)
+
+
 
 <p align="center">
   <a href="https://instagram.com/_kt.figura" target="_blank" style="text-decoration:none;">
