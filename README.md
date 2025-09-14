@@ -12,7 +12,7 @@
 
 Quer conhecer meus projetos e trabalhos? Clique no link abaixo para visitar meu portfólio online:
 
-[🚀 Acesse meu Portfólio!]()
+[🚀 Acesse meu Portfólio!](https://kaiqueteixeira.github.io/Meu-Portfolio/index.html)
 
 
 
